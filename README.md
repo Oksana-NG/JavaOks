@@ -1,0 +1,2 @@
+# JavaOks
+IDEA
